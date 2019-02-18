@@ -9,3 +9,10 @@
   background-image: url("https://images.unsplash.com/photo-1548604303-af502df13131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80");
   min-height: 50vh;
 }
+
+.bg-image-2 {
+  background-image: url("https://images.unsplash.com/photo-1548678967-f1aec58f6fb2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2090&q=80");
+  background-position: right;
+  background-size:cover;
+  min-height: 50vh;
+}
